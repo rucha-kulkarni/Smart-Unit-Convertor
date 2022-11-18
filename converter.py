@@ -1,5 +1,5 @@
 from tkinter import *
-from tkinter import ttk
+import ttk
 
 root = Tk()
 root.title('SMART UNIT CONVERTER')
